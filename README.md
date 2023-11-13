@@ -1,8 +1,7 @@
-<img align="left" alt="Coding" width="100%" src="[https://cdn.dribbble.com/users/116207...](https://cdn.dribbble.com/userupload/9065150/file/original-5afc60c6a624170b7b5eead7def14c34.png?resize=752x)" />
 <h1 align="center">Hi 👋, I'm Ives</h1>
 <h3 align="center">A passionate frontend/UI developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/9324114-Dance-with-cat/attachments/1368393?mode=media" />
+<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/userupload/9065150/file/original-5afc60c6a624170b7b5eead7def14c34.png" />
 
 - 🔭 I’m currently working on [Quirky-components](https://example.com/)
 
