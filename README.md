@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [Quirky-components](https://example.com/)
 
-- 🌱 I’m currently learning **React Native**
-
 - 👨‍💻 All of my projects are available at [https://example.com/](https://example.com/)
 
 - 💬 Ask me about **HTML,CSS,Tailwind, React,Typescript**
