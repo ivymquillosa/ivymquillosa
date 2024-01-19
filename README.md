@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/userupload/9065150/file/original-5afc60c6a624170b7b5eead7def14c34.png" />
 
-- 🔭 I’m currently working on [Quirky-components](https://example.com/)
+- 🔭 I’m currently working on [ViteBook](https://example.com/)
 
 - 👨‍💻 All of my projects are available at [https://example.com/](https://example.com/)
 
