@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ives</h1>
-<h3 align="center">A passionate software engineer | Front-end Developer</h3>
+<h3 align="center">A passionate Software Engineer | Front-end Developer</h3>
 
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/userupload/9065150/file/original-5afc60c6a624170b7b5eead7def14c34.png" />
 
